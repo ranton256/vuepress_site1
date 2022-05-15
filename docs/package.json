@@ -1,0 +1,19 @@
+{
+  "name": "site1",
+  "version": "0.0.1",
+  "description": "First vuepress site",
+  "main": "index.js",
+  "authors": {
+    "name": "Richard Anton",
+    "email": "ranton@ranton.org"
+  },
+  "repository": "git@github.com:ranton256/vuepress_site1.git/site1",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
